@@ -1,0 +1,4 @@
+,feature_path,name
+0,./FaceDatabase/Feature/Name1.npy,Name1
+1,./FaceDatabase/Feature/Name2.npy,Name2
+2,./FaceDatabase/Feature/Name3.npy,Name3
