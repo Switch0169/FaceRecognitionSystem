@@ -37,7 +37,3 @@ Aligned Face
 <div align="left">
 <img src=FaceDatabase\Face_Aligned\Name2\name2.jpg width=30% height=30%/>
 
-Real scene face recognition
-
-<div align="left">
-<img src=result1.jpg/>
